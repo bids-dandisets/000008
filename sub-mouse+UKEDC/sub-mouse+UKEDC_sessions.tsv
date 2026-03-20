@@ -1,5 +1,5 @@
-session_id
-ses-20190409+sample+10
-ses-20190409+sample+11
-ses-20190409+sample+8
-ses-20190409+sample+9
+session_id	original_session_id
+ses-20190409+sample+10	ses-20190409_sample_10
+ses-20190409+sample+11	ses-20190409_sample_11
+ses-20190409+sample+8	ses-20190409_sample_8
+ses-20190409+sample+9	ses-20190409_sample_9

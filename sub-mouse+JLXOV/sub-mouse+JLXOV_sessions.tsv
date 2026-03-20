@@ -1,7 +1,7 @@
-session_id
-ses-20180426+sample+1
-ses-20180426+sample+3
-ses-20180426+sample+4
-ses-20180426+sample+5
-ses-20180426+sample+7
-ses-20180426+sample+9
+session_id	original_session_id
+ses-20180426+sample+1	ses-20180426_sample_1
+ses-20180426+sample+3	ses-20180426_sample_3
+ses-20180426+sample+4	ses-20180426_sample_4
+ses-20180426+sample+5	ses-20180426_sample_5
+ses-20180426+sample+7	ses-20180426_sample_7
+ses-20180426+sample+9	ses-20180426_sample_9

@@ -1,4 +1,4 @@
-session_id
-ses-20180403+sample+5
-ses-20180403+sample+6
-ses-20180403+sample+7
+session_id	original_session_id
+ses-20180403+sample+5	ses-20180403_sample_5
+ses-20180403+sample+6	ses-20180403_sample_6
+ses-20180403+sample+7	ses-20180403_sample_7

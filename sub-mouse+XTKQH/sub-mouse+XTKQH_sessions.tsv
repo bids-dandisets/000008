@@ -1,9 +1,9 @@
-session_id
-ses-20180712+sample+11
-ses-20180712+sample+12
-ses-20180712+sample+13
-ses-20180712+sample+14
-ses-20180712+sample+15
-ses-20180712+sample+2
-ses-20180712+sample+3
-ses-20180712+sample+5
+session_id	original_session_id
+ses-20180712+sample+11	ses-20180712_sample_11
+ses-20180712+sample+12	ses-20180712_sample_12
+ses-20180712+sample+13	ses-20180712_sample_13
+ses-20180712+sample+14	ses-20180712_sample_14
+ses-20180712+sample+15	ses-20180712_sample_15
+ses-20180712+sample+2	ses-20180712_sample_2
+ses-20180712+sample+3	ses-20180712_sample_3
+ses-20180712+sample+5	ses-20180712_sample_5

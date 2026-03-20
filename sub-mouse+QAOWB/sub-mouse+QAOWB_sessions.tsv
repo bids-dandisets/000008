@@ -1,8 +1,8 @@
-session_id
-ses-20190830+sample+1
-ses-20190830+sample+2
-ses-20190830+sample+3
-ses-20190830+sample+4
-ses-20190830+sample+6
-ses-20190830+sample+8
-ses-20190830+sample+9
+session_id	original_session_id
+ses-20190830+sample+1	ses-20190830_sample_1
+ses-20190830+sample+2	ses-20190830_sample_2
+ses-20190830+sample+3	ses-20190830_sample_3
+ses-20190830+sample+4	ses-20190830_sample_4
+ses-20190830+sample+6	ses-20190830_sample_6
+ses-20190830+sample+8	ses-20190830_sample_8
+ses-20190830+sample+9	ses-20190830_sample_9
